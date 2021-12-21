@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SperGiannis
+- 👀 I’m interested in electronics
+- 🌱 I’m currently learning arduino and unity gamedev
